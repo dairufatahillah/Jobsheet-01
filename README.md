@@ -1,5 +1,4 @@
 # Jobsheet-01
-
 ## Pertanyaan
 1. Kenapa field "Alamat" dan "No. HP" tidak diberi required, sedangkan "Nama" dan "No.
 Anggota" diberi?
